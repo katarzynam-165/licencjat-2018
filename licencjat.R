@@ -1,9 +1,3 @@
-#.libPaths(c(.libPaths(), 
-#            "/home/users/lechu/R/x86_64-pc-linux-gnu-library/3.3.3", 
-#            "/opt/exp_soft/local/generic/R/3.3.3-gcc482/lib64/R/library"))
-
-
-#install.packages(c("caret", "e1071", "doSNOW", "randomForest", "mlbench", "gdata", "ggplot2", "mgcv", "nlme", "dplyr", "tidyr", "RColorBrewer", "raster", "gbm", "kernlab", "icesTAF", "parallel"), lib = "~/SDM/kod/pakiety/", repos="http://cran.us.r-project.org", dependencies = TRUE)
 #install.packages(c("caret", "e1071", "doSNOW", "randomForest", "mlbench", "gdata", "ggplot2", "mgcv", "nlme", "dplyr", "tidyr", "RColorBrewer", "raster", "gbm", "kernlab", "icesTAF", "parallel"))
 
 library(caret)
